@@ -1,12 +1,12 @@
 # React Stopwatch
 
-A simple stopwatch component built using React.
+A simple stopwatch component built using React
 
 # Features
-Start: Begin the stopwatch timer.
-Pause: Pause the running stopwatch timer.
-Resume: Resume the paused stopwatch timer.
-Reset: Reset the stopwatch timer to 0.
+- Start: Begin the stopwatch timer
+- Pause: Pause the running stopwatch timer
+- Resume: Resume the paused stopwatch timer
+- Reset: Reset the stopwatch timer to 0
 
 # Command Line 
 - Install the dependencies - npm install
